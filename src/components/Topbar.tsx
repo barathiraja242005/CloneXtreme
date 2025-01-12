@@ -1,10 +1,10 @@
-import React from "react";
+
 import "../pages/styles/rp-bootstrap.css"
 
 const Topbar = () => {
   return (
     <>
-      <div className="d-flex justify-content-between px-5 align-item-center top">
+      <div className="d-flex justify-content-between px-5 align-item-center top ">
         <div className="d-flex  pt-2">
           <p className="mx-5 ">
             <li className="fa fa-map-marker-alt text-primary me-2"></li>

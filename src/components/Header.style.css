@@ -1,7 +1,7 @@
-.jothi{
+.headerLink{
     font-size: 1.2rem;
 }
 
-.jothi:hover{
+.headerLink:hover{
     color: blue;
 }
